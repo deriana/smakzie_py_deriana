@@ -1,0 +1,6 @@
+<nama>=paujan
+<tempat>=rumah
+<keterampilan>=memasak
+<barang>=kucing
+<tokoh penting>=padi
+<kota besar>=jakarta
